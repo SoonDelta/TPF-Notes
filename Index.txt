@@ -1,19 +1,19 @@
-1)  z/TPF System errors (e.g.: CTL-3)
+1)  IBM manual: z/TPF System errors (e.g.: CTL-3)
 https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=messages-system-errors
 
-2)  z/TPFDF System errors (e.g.: DB0100)
+2)  IBM manual: z/TPFDF System errors (e.g.: DB0100)
 https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=db0000db9999-db0100
 
-3)  ZUDFM entries (e.g.: ZUDFM DISPLAY (ZUDFM OA*))
+3)  IBM manual: ZUDFM entries (e.g.: ZUDFM DISPLAY (ZUDFM OA*))
 https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=commands-maintenance-support
 
-4)  z/TPF standard C/C++ library functions
+4)  IBM manual: z/TPF standard C/C++ library functions
 https://www.ibm.com/docs/en/i/7.6.0?topic=functions-library
 
-5)  z/TPF General macro (e.g.: CALOC, FINWC)
+5)  IBM manual: z/TPF General macro (e.g.: CALOC, FINWC)
 https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-general-programming
 
-6)  zArchitecture POP (May 2022) a227832d.pdf
+6)  IBM manual: zArchitecture POP (May 2022) a227832d.pdf
 https://www.ibm.com/support/pages/sites/default/files/2021-05/SA22-7871-10.pdf
 
 7)  zArchitecture Reference Summary (Apr 2025) SA22-7871-12.pdf
@@ -48,4 +48,3 @@ https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/EadT
 
 99)  Say Hello World !!!
 https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/EZ8yH7M3JURCiPAayCHHunUBd1FAYEhqJ0aMWrmQvVBwZQ?e=Df2ctb
-
