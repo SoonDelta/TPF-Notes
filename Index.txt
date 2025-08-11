@@ -4,9 +4,6 @@ https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=messages-system-errors
 --> IBM manual: __z/TPFDF System errors (e.g.: DB0100)
 https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=db0000db9999-db0100
 
---> IBM manual: __ZUDFM entries (e.g.: ZUDFM DISPLAY (ZUDFM OA*))
-https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=commands-maintenance-support
-
 --> IBM manual: __z/TPF standard C/C++ library functions
 https://www.ibm.com/docs/en/i/7.6.0?topic=functions-library
 
@@ -21,6 +18,9 @@ https://www.ibm.com/docs/en/module_1678991624569/pdf/SA22-7871-12.pdf
 
 --> IBM manual: __z/TPFDF SPM - structured programming macros
 https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-ztpfdf-structured-programming-macros
+
+--> IBM manual: __ZUDFM entries (e.g.: ZUDFM DISPLAY (ZUDFM OA*))
+https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=commands-maintenance-support
 
 *** __Say Hello World !!!__ ***
 https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/EZ8yH7M3JURCiPAayCHHunUBd1FAYEhqJ0aMWrmQvVBwZQ?e=Df2ctb
