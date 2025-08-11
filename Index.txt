@@ -1,50 +1,50 @@
-1)  IBM manual: z/TPF System errors (e.g.: CTL-3)
+IBM manual: z/TPF System errors (e.g.: CTL-3)
 https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=messages-system-errors
 
-2)  IBM manual: z/TPFDF System errors (e.g.: DB0100)
+IBM manual: z/TPFDF System errors (e.g.: DB0100)
 https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=db0000db9999-db0100
 
-3)  IBM manual: ZUDFM entries (e.g.: ZUDFM DISPLAY (ZUDFM OA*))
+IBM manual: ZUDFM entries (e.g.: ZUDFM DISPLAY (ZUDFM OA*))
 https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=commands-maintenance-support
 
-4)  IBM manual: z/TPF standard C/C++ library functions
+IBM manual: z/TPF standard C/C++ library functions
 https://www.ibm.com/docs/en/i/7.6.0?topic=functions-library
 
-5)  IBM manual: z/TPF General macro (e.g.: CALOC, FINWC)
+IBM manual: z/TPF General macro (e.g.: CALOC, FINWC)
 https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-general-programming
 
-6)  IBM manual: zArchitecture POP (May 2022) a227832d.pdf
+IBM manual: zArchitecture POP (May 2022) a227832d.pdf
 https://www.ibm.com/support/pages/sites/default/files/2021-05/SA22-7871-10.pdf
 
-7)  zArchitecture Reference Summary (Apr 2025) SA22-7871-12.pdf
+IBM manual: zArchitecture Reference Summary (Apr 2025) SA22-7871-12.pdf
 https://www.ibm.com/docs/en/module_1678991624569/pdf/SA22-7871-12.pdf
 
-8)  z/TPFDF SPM - structured programming macros
+IBM manual: z/TPFDF SPM - structured programming macros
 https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-ztpfdf-structured-programming-macros
 
-9)  How to save a copy of full dump that you view on zDump Analyzer to your local hard drive?
+1)  How to save a copy of full dump that you view on zDump Analyzer to your local hard drive?
 https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/EW3uY_kKvgNLqkxhBniAuoQBOCJjTnzkX9l-9EDW0deDQw?e=ybypgz
 
-10)  How to use EHEAPC or DECBC macro as “indicator” to pass to the downline program?
+2)  How to use EHEAPC or DECBC macro as “indicator” to pass to the downline program?
 https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/EZ2DNV-YvahNg7Wk9dg2i8cB4-6h-rxxZxu6mdPSCHBeuw?e=ShYEWo
 
-11)  How to copy my zTPFGI’s project folder and its files from zTPFGI to my laptop hard drive for backup purpose?    
+3)  How to copy my zTPFGI’s project folder and its files from zTPFGI to my laptop hard drive for backup purpose?    
 https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/Ecvsa5htdppJiLHXKEzky7gB9eYGQN_zdqy_1vCQofIn9g?e=otgCs5
 
-12)  How to display dumps using ZSTAT, ZDDMP, ZDHST and zTPFGI Dump Viewer?       
+4)  How to display dumps using ZSTAT, ZDDMP, ZDHST and zTPFGI Dump Viewer?       
 https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/Ee77kl2ekpxGqiwRnfykqvwBCM0xb1QDCdocVrx8ye782Q?e=Q6upk5
 
-13)  How to fix the issue of unable to connect to Microsoft Teams or Outlook on your office laptop?
+5)  How to fix the issue of unable to connect to Microsoft Teams or Outlook on your office laptop?
 https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/ERs-kxiqWvRIuEfneQ1EaMkBZt0uJDCb1PeOUUVNbI5MIA?e=g8hEnS
 
-14)  How to use Print Screen key to take screenshot with Snipping Tool in Window 11?
+6)  How to use Print Screen key to take screenshot with Snipping Tool in Window 11?
 https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/EQcotyRXnCxHiDLIEt-H0QQBHa3-XR4lDgA5pQ0pMlyWDw?e=33Smmk
 
-15)  ServiceNow Request - Eclipse Foundation Eclipse IDE JDK Eclipse. Very USEFUL - I will use it specifically for the source codes c77paring tool
+7)  ServiceNow Request - Eclipse Foundation Eclipse IDE JDK Eclipse. Very USEFUL - I will use it specifically for the source codes c77paring tool
 https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/EYhTgAXprZRHg4MOGY99wB8Bp7UwO7nZEeklBJ0P8yDjYQ?e=WdfVIN
 
-16)  Good notes about PNR from TPF Wiki Sharepoint   
+8)  Good notes about PNR from TPF Wiki Sharepoint   
 https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/EadTECSCUOlAjoG8WEsmSL0BbNhdnGey8gVOuRmB9PAzfw?e=aFYeqT
 
-99)  Say Hello World !!!
+9)  Say Hello World !!!
 https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/EZ8yH7M3JURCiPAayCHHunUBd1FAYEhqJ0aMWrmQvVBwZQ?e=Df2ctb
