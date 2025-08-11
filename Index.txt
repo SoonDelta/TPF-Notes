@@ -1,28 +1,28 @@
---> IBM manual: z/TPF System errors (e.g.: CTL-3)
+--> IBM manual: __z/TPF System errors (e.g.: CTL-3)
 https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=messages-system-errors
 
---> IBM manual: z/TPFDF System errors (e.g.: DB0100)
+--> IBM manual: __z/TPFDF System errors (e.g.: DB0100)
 https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=db0000db9999-db0100
 
---> IBM manual: ZUDFM entries (e.g.: ZUDFM DISPLAY (ZUDFM OA*))
+--> IBM manual: __ZUDFM entries (e.g.: ZUDFM DISPLAY (ZUDFM OA*))
 https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=commands-maintenance-support
 
---> IBM manual: z/TPF standard C/C++ library functions
+--> IBM manual: __z/TPF standard C/C++ library functions
 https://www.ibm.com/docs/en/i/7.6.0?topic=functions-library
 
---> IBM manual: z/TPF General macro (e.g.: CALOC, FINWC)
+--> IBM manual: __z/TPF General macro (e.g.: CALOC, FINWC)
 https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-general-programming
 
---> IBM manual: zArchitecture POP (May 2022) a227832d.pdf
+--> IBM manual: __zArchitecture POP (May 2022) a227832d.pdf
 https://www.ibm.com/support/pages/sites/default/files/2021-05/SA22-7871-10.pdf
 
---> IBM manual: zArchitecture Reference Summary (Apr 2025) SA22-7871-12.pdf
+--> IBM manual: __zArchitecture Reference Summary (Apr 2025) SA22-7871-12.pdf
 https://www.ibm.com/docs/en/module_1678991624569/pdf/SA22-7871-12.pdf
 
---> IBM manual: z/TPFDF SPM - structured programming macros
+--> IBM manual: __z/TPFDF SPM - structured programming macros
 https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-ztpfdf-structured-programming-macros
 
-*** Say Hello World !!! ***
+*** __Say Hello World !!!__ ***
 https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/EZ8yH7M3JURCiPAayCHHunUBd1FAYEhqJ0aMWrmQvVBwZQ?e=Df2ctb
 
 1)  How to save a copy of full dump that you view on zDump Analyzer to your local hard drive?
@@ -48,4 +48,3 @@ https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/EYhT
 
 8)  Good notes about PNR from TPF Wiki Sharepoint   
 https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/EadTECSCUOlAjoG8WEsmSL0BbNhdnGey8gVOuRmB9PAzfw?e=aFYeqT
-
