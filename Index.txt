@@ -1,4 +1,4 @@
-🌸🌸🌸 Hello World !!! Following are some useful IBM manuals: 🌸🌸🌸️
+🌺🌺🌺 Hello World !!! Following are some useful IBM manuals: ️🌺🌺🌺
 https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/EZ8yH7M3JURCiPAayCHHunUBd1FAYEhqJ0aMWrmQvVBwZQ?e=Df2ctb
 
 ___IBM manual: __z/TPF System errors (e.g.: CTL-3)
@@ -25,7 +25,7 @@ https://www.ibm.com/support/pages/sites/default/files/2021-05/SA22-7871-10.pdf
 ___IBM manual: __zArchitecture Reference Summary (Apr 2025) SA22-7871-12.pdf
 https://www.ibm.com/docs/en/module_1678991624569/pdf/SA22-7871-12.pdf
 
-🌺🌺🌺 Hello World !!! Following are some useful TPF and non-TPF notes: 🌺🌺🌺
+㊙️㊙️㊙️ Hello World !!! Following are some useful TPF and non-TPF notes: ㊙️㊙️㊙️
 https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/EZ8yH7M3JURCiPAayCHHunUBd1FAYEhqJ0aMWrmQvVBwZQ?e=Df2ctb
 
 ___1) How to save a copy of full dump that you view on zDump Analyzer to your local hard drive?
@@ -51,4 +51,3 @@ https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/EYhT
 
 ___8) Good notes about PNR from TPF Wiki Sharepoint   
 https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/EadTECSCUOlAjoG8WEsmSL0BbNhdnGey8gVOuRmB9PAzfw?e=aFYeqT
-
