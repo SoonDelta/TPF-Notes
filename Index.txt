@@ -1,7 +1,24 @@
-text1
-  text2|https://www.delta.com|
-     text3|https://www.cnn.com|
-text4|https://www.bbc.com|
+🌺🌺🌺 Hello World !!! Following are some useful IBM manuals: ️🌺🌺🌺
 
-text5
-text6|https://www.abc.com|
+IBM manual:
+   z/TPF System errors (e.g.: CTL-3)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=messages-system-errors|
+   z/TPFDF System errors (e.g.: DB0100)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=m-system-errors|
+   z/TPF standard C/C++ library functions (e.g: calloc())|https://www.ibm.com/docs/en/i/7.6.0?topic=functions-library|
+   z/TPF General macro (e.g.: FINWC)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-general-programming|
+   z/TPFDF SPM - structured programming macro|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-ztpfdf-structured-programming-macros|
+   ZUDFM entries (e.g.: ZUDFM DISPLAY (ZUDFM OA*))|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=commands-maintenance-support|
+   zArchitecture POP (May 2022) a227832d.pdf|https://www.ibm.com/support/pages/sites/default/files/2021-05/SA22-7871-10.pdf|
+   zArchitecture Reference Summary (Apr 2025) SA22-7871-12.pdf|https://www.ibm.com/docs/en/module_1678991624569/pdf/SA22-7871-12.pdf|
+
+
+㊙️㊙️㊙️ Hello World !!! Following are some useful TPF and non-TPF notes: ㊙️㊙️㊙️
+
+   1) How to save a copy of full dump that you view on zDump Analyzer to your local hard drive?|https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/EW3uY_kKvgNLqkxhBniAuoQBOCJjTnzkX9l-9EDW0deDQw?e=ybypgz|
+   2) How to use EHEAPC or DECBC macro as “indicator” to pass to the downline program?|https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/EZ2DNV-YvahNg7Wk9dg2i8cB4-6h-rxxZxu6mdPSCHBeuw?e=ShYEWo|
+   3) How to copy my zTPFGI’s project folder and its files from zTPFGI to my laptop hard drive for backup purpose?    
+https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/Ecvsa5htdppJiLHXKEzky7gB9eYGQN_zdqy_1vCQofIn9g?e=otgCs5
+   4) How to display dumps using ZSTAT, ZDDMP, ZDHST and zTPFGI Dump Viewer?|https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/Ee77kl2ekpxGqiwRnfykqvwBCM0xb1QDCdocVrx8ye782Q?e=Q6upk5|
+   5) How to fix the issue of unable to connect to Microsoft Teams or Outlook on your office laptop?|https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/ERs-kxiqWvRIuEfneQ1EaMkBZt0uJDCb1PeOUUVNbI5MIA?e=g8hEnS|
+   6) How to use Print Screen key to take screenshot with Snipping Tool in Window 11?|https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/EQcotyRXnCxHiDLIEt-H0QQBHa3-XR4lDgA5pQ0pMlyWDw?e=33Smmk|
+   7) ServiceNow Request - Eclipse Foundation Eclipse IDE JDK Eclipse. Very USEFUL - I use it specifically to compare source codes between 2 files|https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/EYhTgAXprZRHg4MOGY99wB8Bp7UwO7nZEeklBJ0P8yDjYQ?e=WdfVIN|
+   8) Good notes about PNR from TPF Wiki Sharepoint|https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/EadTECSCUOlAjoG8WEsmSL0BbNhdnGey8gVOuRmB9PAzfw?e=aFYeqT|
