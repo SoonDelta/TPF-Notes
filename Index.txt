@@ -1,8 +1,7 @@
 text1
-➡️  text2|https://www.delta.com|
-➡️     text3|https://www.cnn.com|
-➡️text4|https://www.bbc.com|
+  text2|https://www.delta.com|
+     text3|https://www.cnn.com|
+text4|https://www.bbc.com|
 
-➡️text5
-➡️text6|https://www.abc.com|
-
+text5
+text6|https://www.abc.com|
