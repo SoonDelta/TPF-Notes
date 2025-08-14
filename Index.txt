@@ -1,7 +1,7 @@
 🌺🌺🌺 Hello World !!! Following are some useful IBM manuals: ️🌺🌺🌺
 
-   z/TPF System errors (e.g.: CTL-3)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=messages-system-errors|
-   z/TPFDF System errors (e.g.: DB0100)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=m-system-errors|
+   ➡z/TPF System errors (e.g.: CTL-3)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=messages-system-errors|
+   ➡z/TPFDF System errors (e.g.: DB0100)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=m-system-errors|
    z/TPF standard C/C++ library functions (e.g: calloc())|https://www.ibm.com/docs/en/i/7.6.0?topic=functions-library|
    z/TPF General macro (e.g.: FINWC)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-general-programming|
    z/TPFDF SPM - structured programming macro|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-ztpfdf-structured-programming-macros|
