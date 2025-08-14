@@ -1,7 +1,7 @@
 🌺🌺🌺 Hello World !!! Following are some useful IBM manuals: ️🌺🌺🌺
 
-   ➡z/TPF System errors (e.g.: CTL-3)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=messages-system-errors|
-   ➡z/TPFDF System errors (e.g.: DB0100)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=m-system-errors|
+   ➡️z/TPF System errors (e.g.: CTL-3)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=messages-system-errors|
+   ➡️z/TPFDF System errors (e.g.: DB0100)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=m-system-errors|
    z/TPF standard C/C++ library functions (e.g: calloc())|https://www.ibm.com/docs/en/i/7.6.0?topic=functions-library|
    z/TPF General macro (e.g.: FINWC)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-general-programming|
    z/TPFDF SPM - structured programming macro|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-ztpfdf-structured-programming-macros|
@@ -20,3 +20,4 @@
    6) How to use Print Screen key to take screenshot with Snipping Tool in Window 11?|https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/EQcotyRXnCxHiDLIEt-H0QQBHa3-XR4lDgA5pQ0pMlyWDw?e=33Smmk|
    7) ServiceNow Request - Eclipse Foundation Eclipse IDE JDK Eclipse. Very USEFUL - I use it specifically to compare source codes between 2 files|https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/EYhTgAXprZRHg4MOGY99wB8Bp7UwO7nZEeklBJ0P8yDjYQ?e=WdfVIN|
    8) Good notes about PNR from TPF Wiki Sharepoint|https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/EadTECSCUOlAjoG8WEsmSL0BbNhdnGey8gVOuRmB9PAzfw?e=aFYeqT|
+
