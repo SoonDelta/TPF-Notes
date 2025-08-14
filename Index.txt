@@ -10,7 +10,7 @@
    8)  zArchitecture Reference Summary (Apr 2025) SA22-7871-12.pdf|https://www.ibm.com/docs/en/module_1678991624569/pdf/SA22-7871-12.pdf|
 
 
-㊙️㊙️㊙️ Hello World !!! Following are some useful TPF and non-TPF notes: ㊙️㊙️㊙️
+㊙️㊙️㊙️ Hello World !!! Following are links to some useful TPF and non-TPF notes: ㊙️㊙️㊙️
 
    1)  How to save a copy of full dump that you view on zDump Analyzer to your local hard drive?|https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/EW3uY_kKvgNLqkxhBniAuoQBOCJjTnzkX9l-9EDW0deDQw?e=ybypgz|
    2)  How to use EHEAPC or DECBC macro as “indicator” to pass to the downline program?|https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/EZ2DNV-YvahNg7Wk9dg2i8cB4-6h-rxxZxu6mdPSCHBeuw?e=ShYEWo|
@@ -20,3 +20,4 @@
    6)  How to use Print Screen key to take screenshot with Snipping Tool in Window 11?|https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/EQcotyRXnCxHiDLIEt-H0QQBHa3-XR4lDgA5pQ0pMlyWDw?e=33Smmk|
    7)  ServiceNow Request - Eclipse Foundation Eclipse IDE JDK Eclipse. Very USEFUL - I use it specifically to compare source codes between 2 files|https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/EYhTgAXprZRHg4MOGY99wB8Bp7UwO7nZEeklBJ0P8yDjYQ?e=WdfVIN|
    8)  Good notes about PNR from TPF Wiki Sharepoint|https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/EadTECSCUOlAjoG8WEsmSL0BbNhdnGey8gVOuRmB9PAzfw?e=aFYeqT|
+
