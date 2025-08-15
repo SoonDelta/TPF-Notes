@@ -8,7 +8,7 @@
         6)  z/TPFDF SPM macros     (e.g.: #CONB)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-ztpfdf-structured-programming-macros		
         7)  z/TPFDF ZUDFM entries  (e.g.: ZUDFM DISPLAY (ZUDFM OA*))|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=commands-maintenance-support
         8)  z/TPF C/C++ APIs       (e.g.: wtopc_text)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-ztpf-cc-apis
-        9)  standard C/C++ library (e.g: calloc())|https://www.ibm.com/docs/en/i/7.6.0?topic=functions-library
+        9)  standard C/C++ library (e.g.: calloc())|https://www.ibm.com/docs/en/i/7.6.0?topic=functions-library
        10)  zArchitecture POP (May 2022) a227832d.pdf|https://www.ibm.com/support/pages/sites/default/files/2021-05/SA22-7871-10.pdf
        11)  zArchitecture Reference Summary (Apr 2025) SA22-7871-12.pdf|https://www.ibm.com/docs/en/module_1678991624569/pdf/SA22-7871-12.pdf
 										
