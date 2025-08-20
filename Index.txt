@@ -1,16 +1,21 @@
 🌺🌺🌺 Hello World !!! Following are links to some useful IBM manuals: ️🌺🌺🌺
 
-        1)  z/TPF System errors    (e.g.: CTL-3)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=messages-system-errors
-        2)  z/TPFDF System errors  (e.g.: DB0100)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=m-system-errors
-        3)  z/TPF General macros   (e.g.: FINWC)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-general-programming
-        4)  z/TPF System macros    (e.g.: $GSYSC)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-system-programming
-        5)  z/TPF Commands         (e.g.: ZDCOR)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=operations-ztpf-commands
-        6)  z/TPFDF SPM macros     (e.g.: #CONB)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-ztpfdf-structured-programming-macros		
-        7)  z/TPFDF ZUDFM entries  (e.g.: ZUDFM DISPLAY (ZUDFM OA*))|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=commands-maintenance-support
-        8)  z/TPF C/C++ APIs       (e.g.: wtopc_text)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-ztpf-cc-apis
-        9)  standard C/C++ library (e.g.: calloc())|https://www.ibm.com/docs/en/i/7.6.0?topic=functions-library
-       10)  zArchitecture POP (May 2022) a227832d.pdf|https://www.ibm.com/support/pages/sites/default/files/2021-05/SA22-7871-10.pdf
-       11)  zArchitecture Reference Summary (Apr 2025) SA22-7871-12.pdf|https://www.ibm.com/docs/en/module_1678991624569/pdf/SA22-7871-12.pdf
+        1)  z/TPF System errors      (e.g.: CTL-3)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=messages-system-errors
+        2)  z/TPFDF System errors    (e.g.: DB0100)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=m-system-errors
+		
+        3)  z/TPF General macros     (e.g.: CALOC)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-general-programming
+        4)  z/TPF System macros      (e.g.: $GSYSC)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-system-programming
+        5)  z/TPF Commands           (e.g.: ZDCOR)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=operations-ztpf-commands
+        6)  z/TPF C/C++ APIs         (e.g.: calloc, wtopc_text)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-ztpf-cc-apis
+        7)  standard C/C++ library   (e.g.: strcpy())|https://www.ibm.com/docs/en/i/7.6.0?topic=functions-library
+		
+        8)  z/TPFDF General macros   (e.g.: DBOPN)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=aps-general-services
+        9)  z/TPFDF C General macros (e.g.: dfopn)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-c-language-functions
+       10)  z/TPFDF SPM macros       (e.g.: #CONB)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-ztpfdf-structured-programming-macros		
+       11)  z/TPFDF ZUDFM entries    (e.g.: ZUDFM DISPLAY (ZUDFM OA*))|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=commands-maintenance-support
+		
+       12)  zArchitecture POP (May 2022) a227832d.pdf|https://www.ibm.com/support/pages/sites/default/files/2021-05/SA22-7871-10.pdf
+       13)  zArchitecture Reference Summary (Apr 2025) SA22-7871-12.pdf|https://www.ibm.com/docs/en/module_1678991624569/pdf/SA22-7871-12.pdf
 										
 
 ㊙️㊙️㊙️ Hello World !!! Following are links to some useful TPF and non-TPF notes: ㊙️㊙️㊙️
