@@ -5,7 +5,7 @@
 		
        3)  z/TPF General macros     (e.g.: CALOC)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-general-programming
        4)  z/TPF System macros      (e.g.: $GSYSC)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-system-programming
-       5)  z/TPF Commands           (e.g.: ZDCOR)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=operations-ztpf-commands
+       5)  z/TPF Z-Commands         (e.g.: ZDCOR)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=operations-ztpf-commands
        6)  z/TPF C/C++ APIs         (e.g.: calloc, wtopc_text)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-ztpf-cc-apis
        7)  standard C/C++ library   (e.g.: strcpy)|https://www.ibm.com/docs/en/i/7.6.0?topic=functions-library
 		
@@ -28,4 +28,5 @@
       6)  How to use Print Screen key to take screenshot with Snipping Tool in Window 11?|https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/EQcotyRXnCxHiDLIEt-H0QQBHa3-XR4lDgA5pQ0pMlyWDw?e=33Smmk
       7)  ServiceNow Request - Eclipse Foundation Eclipse IDE JDK Eclipse. Very USEFUL - I use it specifically to compare source codes between 2 files|https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/EYhTgAXprZRHg4MOGY99wB8Bp7UwO7nZEeklBJ0P8yDjYQ?e=WdfVIN
       8)  Good notes about PNR from TPF Wiki Sharepoint|https://deltaairlines-my.sharepoint.com/:w:/g/personal/soon_a_wee_delta_com/EadTECSCUOlAjoG8WEsmSL0BbNhdnGey8gVOuRmB9PAzfw?e=aFYeqT
+
 
