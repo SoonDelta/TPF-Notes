@@ -13,9 +13,10 @@
         9)  z/TPFDF C General macros (e.g.: dfopn, dfred, dfsrt )|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-c-language-functions
        10)  z/TPFDF SPM macros       (e.g.: #CONB, #DO, #EXEC)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-ztpfdf-structured-programming-macros		
        11)  z/TPFDF ZUDFM entries    (e.g.: ZUDFM DISPLAY (ZUDFM OA*), ZUDFM INIT (ZUDFM OAINIT))|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=commands-maintenance-support
+       12)  z/TPFDF Algorithms       (e.g.: #TPFDB01,.., #TPFDBFF)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=macros-algorithm-descriptions#algodescr__algtbl
 		
-       12)  zArchitecture POP (May 2022) a227832d.pdf|https://www.ibm.com/support/pages/sites/default/files/2021-05/SA22-7871-10.pdf
-       13)  zArchitecture Reference Summary (Apr 2025) SA22-7871-12.pdf|https://www.ibm.com/docs/en/module_1678991624569/pdf/SA22-7871-12.pdf
+       13)  zArchitecture POP (May 2022) a227832d.pdf|https://www.ibm.com/support/pages/sites/default/files/2021-05/SA22-7871-10.pdf
+       14)  zArchitecture Reference Summary (Apr 2025) SA22-7871-12.pdf|https://www.ibm.com/docs/en/module_1678991624569/pdf/SA22-7871-12.pdf
 										
 
 ㊙️㊙️㊙️ Hello World !!! Following are links to some useful TPF and non-TPF notes: ㊙️㊙️㊙️
