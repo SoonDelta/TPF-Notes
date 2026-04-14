@@ -1,21 +1,21 @@
 🌺🌺🌺 Hello World !!! Following are links to some useful IBM manuals: ️🌺🌺🌺
 
-        1)  z/TPF System errors      (e.g.: CTL-3)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=messages-system-errors
-        2)  z/TPFDF System errors    (e.g.: DB0100)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=m-system-errors
+        1)  z/TPF System errors      (e.g.: CTL-3)|https://www.ibm.com/docs/en/ztpf/1.1.2026?topic=messages-system-errors
+        2)  z/TPFDF System errors    (e.g.: DB0100)|https://www.ibm.com/docs/en/ztpf/1.1.2026?topic=m-system-errors
 		
-        3)  z/TPF General macros     (e.g.: FINWC, CALOC, WTOPC)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-general-programming
-        4)  z/TPF System macros      (e.g.: KEYCC, MODEC, $GSYSC)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-system-programming
-        5)  z/TPF Commands           (e.g.: ZDCOR, ZOLDR, ZSTAT)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=operations-ztpf-commands
-        6)  z/TPF C/C++ APIs         (e.g.: finwc, calloc, wtopc_text)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-ztpf-cc-apis
+        3)  z/TPF General macros     (e.g.: FINWC, CALOC, WTOPC)|https://www.ibm.com/docs/en/ztpf/1.1.2026?topic=services-general-programming
+        4)  z/TPF System macros      (e.g.: KEYCC, MODEC, $GSYSC)|https://www.ibm.com/docs/en/ztpf/1.1.2026?topic=services-system-programming
+        5)  z/TPF Commands           (e.g.: ZDCOR, ZOLDR, ZSTAT)|https://www.ibm.com/docs/en/ztpf/1.1.2026?topic=operations-ztpf-commands
+        6)  z/TPF C/C++ APIs         (e.g.: finwc, calloc, wtopc_text)|https://www.ibm.com/docs/en/ztpf/1.1.2026?topic=services-ztpf-cc-apis
         7)  standard C/C++ library   (e.g.: atoi, fputs, strcpy)|https://www.ibm.com/docs/en/i/7.6.0?topic=functions-library
 		
-        8)  z/TPFDF General macros   (e.g.: DBOPN, DBRED, DBSRT)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=aps-general-services
-        9)  z/TPFDF C General macros (e.g.: dfopn, dfred, dfsrt )|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-c-language-functions
-       10)  z/TPFDF SPM macros       (e.g.: #CONB, #DO, #EXEC)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=services-ztpfdf-structured-programming-macros		
-       11)  z/TPFDF ZUDFM entries    (e.g.: ZUDFM DISPLAY (ZUDFM OA*), ZUDFM INIT (ZUDFM OAINIT))|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=commands-maintenance-support
-       12)  z/TPFDF Algorithms       (e.g.: #TPFDB01,.., #TPFDBFF)|https://www.ibm.com/docs/en/ztpf/1.1.2025?topic=macros-algorithm-descriptions#algodescr__algtbl
+        8)  z/TPFDF General macros   (e.g.: DBOPN, DBRED, DBSRT)|https://www.ibm.com/docs/en/ztpf/1.1.2026?topic=aps-general-services
+        9)  z/TPFDF C General macros (e.g.: dfopn, dfred, dfsrt )|https://www.ibm.com/docs/en/ztpf/1.1.2026?topic=services-c-language-functions
+       10)  z/TPFDF SPM macros       (e.g.: #CONB, #DO, #EXEC)|https://www.ibm.com/docs/en/ztpf/1.1.2026?topic=services-ztpfdf-structured-programming-macros		
+       11)  z/TPFDF ZUDFM entries    (e.g.: ZUDFM DISPLAY (ZUDFM OA*), ZUDFM INIT (ZUDFM OAINIT))|https://www.ibm.com/docs/en/ztpf/1.1.2026?topic=commands-maintenance-support
+       12)  z/TPFDF Algorithms       (e.g.: #TPFDB01,.., #TPFDBFF)|https://www.ibm.com/docs/en/ztpf/1.1.2026?topic=macros-algorithm-descriptions#algodescr__algtbl
 		
-       13)  zArchitecture POP (May 2022) a227832d.pdf|https://www.ibm.com/support/pages/sites/default/files/2021-05/SA22-7871-10.pdf
+       13)  zArchitecture Principles of Operation (Apr 2025) SA22-7832-14.pdf|https://publibfp.dhe.ibm.com/epubs/pdf/a227832d.pdf
        14)  zArchitecture Reference Summary (Apr 2025) SA22-7871-12.pdf|https://www.ibm.com/docs/en/module_1678991624569/pdf/SA22-7871-12.pdf
 										
 
