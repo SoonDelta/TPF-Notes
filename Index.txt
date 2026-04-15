@@ -15,7 +15,7 @@
        11)  z/TPFDF ZUDFM entries    (e.g.: ZUDFM DISPLAY (ZUDFM OA*), ZUDFM INIT (ZUDFM OAINIT))|https://www.ibm.com/docs/en/ztpf/1.1.2026?topic=commands-maintenance-support
        12)  z/TPFDF Algorithms       (e.g.: #TPFDB01,.., #TPFDBFF)|https://www.ibm.com/docs/en/ztpf/1.1.2026?topic=macros-algorithm-descriptions#algodescr__algtbl
 		
-       13)  zArchitecture Principles of Operation (Apr 2025) SA22-7832-14.pdf|https://publibfp.dhe.ibm.com/epubs/pdf/a227832d.pdf
+       13)  zArchitecture Principles of Operation (Apr 2025) SA22-7832-14.pdf|https://www.ibm.com/docs/en/module_1678991624569/pdf/SA22-7832-14.pdf?cp=HW11W
        14)  zArchitecture Reference Summary (Apr 2025) SA22-7871-12.pdf|https://www.ibm.com/docs/en/module_1678991624569/pdf/SA22-7871-12.pdf
 										
 
