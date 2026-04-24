@@ -18,7 +18,7 @@
        13)  zArchitecture Principles of Operation (Apr 2025) SA22-7832-14.pdf|https://www.ibm.com/docs/en/module_1678991624569/pdf/SA22-7832-14.pdf?cp=HW11W
        14)  zArchitecture Reference Summary (Apr 2025) SA22-7871-12.pdf|https://www.ibm.com/docs/en/module_1678991624569/pdf/SA22-7871-12.pdf
 	   
-       15)  TPFUG Group Presentations Documents (sign up/sign in with username & password) |https://members.tpfug.org/index.php|
+       15)  TPFUG Group Presentations Documents (sign up/sign in with username & password)|https://members.tpfug.org/index.php|
        										
 
 ㊙️㊙️㊙️ Hello World !!! Following are links to some useful TPF and non-TPF notes: ㊙️㊙️㊙️
